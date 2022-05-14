@@ -1,2 +1,2 @@
 # profcode
-Projeto do prof de programação
+Projeto de exercicio da UNICSUL
